@@ -15,6 +15,12 @@
   completions: 1
   years-completed: 2026
 
+- name: Kev Quirk
+  link: https://kevquirk.com
+  date-last-completed: September 2026
+  completions: 7
+  years-completed: 2024 (x2), 2025 (x2), 2026 (x3)
+
 - name: Emma Goto
   link: https://www.emgoto.com
   date-last-completed: July 2026
@@ -32,12 +38,6 @@
   date-last-completed: April 2026
   completions: 7
   years-completed: 2020, 2021, 2022, 2023, 2024, 2025, 2026
-
-- name: Kev Quirk
-  link: https://kevquirk.com
-  date-last-completed: April 2026
-  completions: 2
-  years-completed: 2024, 2026
 
 - name: Noah Rahm
   link: https://blog.noahrahm.com
