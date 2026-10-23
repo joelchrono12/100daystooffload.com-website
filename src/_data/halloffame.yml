@@ -2,6 +2,11 @@
 # completions = number of times completed
 # date-last-completed = most recent completion date
 # years-completed = calendar years in which you completed the challenge
+- name: Naty S
+  link: https://burgeonlab.com/
+  date-last-completed: October 2026
+  completions: 1
+  years-completed: 2026
 
 - name: tam kien duong
   link: https://11d.im/
